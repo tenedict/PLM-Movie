@@ -9,8 +9,8 @@
 - 💻 사용 기술
   - Python, Django, HTML, CSS, Bootstrap5
 - ⭐ 나의 역할
-  - 장고에서 CRUD기능을 구현함 
-  - 페이지간의 이동과 저장소에 저장 삭제 수정등을 매끄럽게 만듦
+  - Django를 활용하여 CRUD기능을 구현함 
+  - Django모델 테이블을 
 - 💡 배운 점
   - 전체적인 Django의 개발 흐름을 알게 되었습니다.
   - ModelForm과 부트스트랩을 활용하여 form을 만드는 방법과 ModelForm을 사용하면 view에서 따로 에러 메시지를 구성할 필요 없이 자동으로 한번 걸러 줄 수 있다는 것을 알게 되었습니다.
